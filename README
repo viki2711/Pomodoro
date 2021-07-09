@@ -1,0 +1,9 @@
+Pomodoro App
+
+This app is built with Python - Tkinter GUI
+
+Pomodoro method of efficient work:
+1. Work for 25 min
+2. Rest 5 min
+3. Do this cycle 4 times
+4. Rest for 20 min
